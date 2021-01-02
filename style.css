@@ -11,6 +11,8 @@
             body {
                 padding-top: 56px;
                 background-color: #537752;
+                /* background-image: url(https://picsum.photos/id/102/1200/600);
+                background-position: center top; */
                 font-family: 'Old Standard TT', serif;
             }
             
@@ -43,3 +45,6 @@
             .copyright {
                 text-align: center;
             }
+            /* #fons {
+                background-image: url(https://picsum.photos/id/102/1200/600);
+            } */
